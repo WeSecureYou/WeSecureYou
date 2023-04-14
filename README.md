@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/zzepax" target="blank"><img src="https://img.shields.io/twitter/follow/zzepax?logo=twitter&style=for-the-badge" alt="zzepax" /></a> </p>
 
-- 🔭 I’m currently working on [Ze(泽) Notes](https://zenotes.vercel.app/)
+- 🔭 I’m currently working on [Ze(泽) Blog](https://ze-blog-supabase.vercel.app/)
 
-- 🌱 I’m currently learning **React, Some other Databases**
+- 🌱 I’m currently learning **MongoDB**
 
 - 📫 How to reach me **devp61136@gmail.com**
 
