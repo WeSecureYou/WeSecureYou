@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [TweetX - A twitter clone](https://tweetx-kappa.vercel.app/)
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **devp61136@gmail.com**
 
