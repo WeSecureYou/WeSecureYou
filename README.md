@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev</h1>
-<h3 align="center">A passionate full stack developer from Canada</h3>
+<h3 align="center">A passionate full stack developer from India (residing in Canada)</h3>
 
 <p align="left"> <a href="https://twitter.com/zzepax" target="blank"><img src="https://img.shields.io/twitter/follow/zzepax?logo=twitter&style=for-the-badge" alt="zzepax" /></a> </p>
 
