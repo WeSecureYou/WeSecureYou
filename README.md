@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wesecureyou" alt="wesecureyou" /></a> </p>
 
-- 🔭 I’m currently working on [TweetX (currently on mobile devices)](https://tweetx-kappa.vercel.app)
+- 🔭 I’m currently working on [TweetX - A Twitter clone (currently on mobile devices)](https://tweetx-kappa.vercel.app)
 
 - 🌱 I’m currently learning **C++**
 
